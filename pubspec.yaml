@@ -1,0 +1,62 @@
+name: cybersecure
+description: A new Flutter project.
+
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.6.0 <3.0.0"
+dependencies:
+  flutter_web_plugins:
+    sdk: flutter
+  flutter:
+    sdk: flutter
+  
+
+  cupertino_icons: ^1.0.2
+  simple_animations: ^4.2.0
+  url_launcher: ^6.1.5
+  flutter_launcher_icons: ^0.9.3
+  flutter_password_strength: ^0.1.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter_icons:
+  # android: "launcher_icon"
+  ios: false
+  image_path: "assets/logo.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/logo.png
+    - assets/logo2.png
+    - assets/activity1.png
+    - assets/activity2.png
+    - assets/bioposter.png
+    - assets/HTP.png
+    - assets/contact.png
+    - assets/report.png
+    - assets/element1.png
+    - assets/element2.png
+    - assets/element3.png
+    - assets/sticker.png
+    - assets/bg.png
+    - assets/report13.png
+    - assets/report12.png
+    - assets/report11.png
+    - assets/report10.png
+    - assets/report9.png
+    - assets/report8.png
+    - assets/report7.png
+    - assets/report6.png
+    - assets/report5.png
+    - assets/report4.png
+    - assets/report3.png
+    - assets/report2.png
+    - assets/report1.png
+
